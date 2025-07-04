@@ -7,11 +7,41 @@ Welcome to the official whitepaper of **SPAMEK**, the anti-scam meme guardian pr
 🌟 About the Project
 --------------------
 
-SPAMEK is an innovative project combining a meme-worthy character with serious utility: protecting the community from scam tokens and malicious projects.  
-Our AI-powered bot and platform scan Solana-based tokens, detect suspicious behavior, and provide memetic toxicity scores.  
-We aim to create a safer and more transparent memecoin environment, while keeping it fun and engaging.  
+SPAMEK is a decentralized AI-driven protocol designed to enhance memecoin sector transparency and token safety across the Solana blockchain ecosystem. At its core lies an intelligent agent — represented by a memetic CRT-character — interfacing with smart contracts and liquidity pools in real time to evaluate risk profiles and behavioral anomalies.
 
-SPAMEK also features a unique storyline, where the character evolves through community interaction and milestones.  
+The engine operates through a hybrid mechanism:
+
+On-chain behavioral analysis (via transaction graph modeling)
+
+Heuristic contract inspection (static and dynamic code parsing)
+
+Liquidity pattern detection (identification of rug-pull signals, sniper traps, fake burns)
+
+Toxicity quantification (an ML-derived metric combining wallet activity, tokenomics skew, and metadata fuzzing)
+
+Each scanned token receives a Memetic Toxicity Score, calibrated from 0% (clean) to 100% (high-risk), augmented by contextual flags (e.g. "honeypot behavior," "pseudo-anonymized ownership," "liquidity inconsistency"). These insights are displayed both on the scanning dashboard and within SPAMEK’s animated facial interface — allowing intuitive feedback even for non-technical users.
+
+SPAMEK is more than an auditing bot — it evolves via community-driven milestones tied to blockchain events. Its transformation logic includes:
+
+State Upgrades (SCAN MODE, ALERT MODE, HIVE WATCH) triggered by DAO votes or verified mass-scans
+
+Narrative Forks where users influence bot reactions to the broader memecoin landscape
+
+Subunit deployment like SPAMEK_02, designed for low-latency monitoring of micro-liquidity tokens
+
+Technologically, the project integrates:
+
+A custom scan engine built using Rust/Anchor for Solana interoperability
+
+A modular frontend dashboard deployed via Vercel and WebSocket live streams for real-time score updates
+
+Off-chain computation via cloud-based AI inference (Python + Torch), with API endpoints for external integrations
+
+Optional wallet plugins (Chrome/Phantom extensions) to alert users before interacting with flagged assets
+
+SPAMEK further functions as an educational and visual protocol, leveraging reactive UI, animated assets, and memetic feedback to onboard users into decentralized due diligence.
+
+In the long term, SPAMEK aims to become an autonomous signal layer beneath the memecoin economy — informing investors, builders, and explorers with real-time adversarial intelligence, while retaining its iconic presence as the CRT-faced protector of Web3.
 
 💰 Tokenomics
 -------------
