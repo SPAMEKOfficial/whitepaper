@@ -73,7 +73,7 @@ SPAMEK merges technical precision with memetic accessibility — defending, educ
 📅 Roadmap
 ----------
 
-### Q2 2025 — Foundation Phase
+### Q3 2025 — Foundation Phase
 - 🌐 Community Building on Telegram & X  
   *Grow a strong, engaged community around SPAMEK.*
 - 🤖 SPAMEK Character Presentation  
@@ -85,7 +85,7 @@ SPAMEK merges technical precision with memetic accessibility — defending, educ
 - 🚀 SPAMEK Token Launch  
   *Distribute the SPAMEK token and open trading.*
 
-### Q3 2025 — Development Phase
+### Q4 2025 — Development Phase
 - 🤖 SPAMEK Bot v1 on Telegram  
   *Enable real-time scam alerts, token scans & toxicity reports.*
 - 🖥️ Beta Version of Web Platform  
@@ -95,7 +95,7 @@ SPAMEK merges technical precision with memetic accessibility — defending, educ
 - 📖 Next Episodes of SPAMEK's Story on X  
   *Release more chapters of SPAMEK's journey to fight scams.*
 
-### Q4 2025 — Utility Phase
+### Q1 2026 — Utility Phase
 - 💸 Token Utility  
   *Use SPAMEK tokens for faster scans, priority reports, and premium features.*
 - 🗳️ DAO System  
